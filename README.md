@@ -1,5 +1,5 @@
 # BottomNavigationBarWidget
-![Screenshot_20241123_163022](https://github.com/user-attachments/assets/4806bcaa-6e8b-4772-93a9-a423745f83e8)
+https://github.com/user-attachments/assets/fbe12148-ef18-49c8-ab41-59fb99888d6c
 
 A modern and customizable **Flutter Bottom Navigation Bar** widget with smooth animations and stylish design.
 
